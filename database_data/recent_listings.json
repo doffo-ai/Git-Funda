@@ -2552,5 +2552,28 @@
       "extraction_timestamp": "2025-02-23T23:25:43.504660",
       "price_per_m2": 5000
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 200000,
+      "living_area": 40,
+      "volume": 128,
+      "rooms": 2,
+      "energy_label": "A",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 2016,
+      "address": "Stationsstraat 16",
+      "postal_city": "3201 AS Spijkenisse",
+      "building_age": 9,
+      "PC4": "3201",
+      "PC6": "AS",
+      "city": "Spijkenisse",
+      "extraction_timestamp": "2025-02-23T23:38:13.702346",
+      "price_per_m2": 5000
+    }
   }
 ]
