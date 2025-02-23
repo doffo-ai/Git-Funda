@@ -1,0 +1,6 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# Other utilities
+python-dateutil 
