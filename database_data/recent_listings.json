@@ -1379,5 +1379,51 @@
       "extraction_timestamp": "2025-02-23T16:44:39.336774",
       "price_per_m2": 4111
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 189000,
+      "living_area": 21,
+      "volume": 81,
+      "rooms": 2,
+      "energy_label": "D",
+      "vve_contribution": 130.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1750,
+      "address": "Haarlemmerstraat 196-C",
+      "postal_city": "2312 GH Leiden",
+      "building_age": 275,
+      "PC4": "2312",
+      "PC6": "GH",
+      "city": "Leiden",
+      "extraction_timestamp": "2025-02-23T16:53:33.877513",
+      "price_per_m2": 9000
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 45,
+      "volume": 184,
+      "rooms": 1,
+      "energy_label": "Niet beschikbaar",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1912,
+      "address": "2e Schansstraat 28-A",
+      "postal_city": "3025 XN Rotterdam",
+      "building_age": 113,
+      "PC4": "3025",
+      "PC6": "XN",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-23T16:53:34.791449",
+      "price_per_m2": 4111
+    }
   }
 ]
