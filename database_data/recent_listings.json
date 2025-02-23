@@ -344,5 +344,28 @@
       "extraction_timestamp": "2025-02-23T06:39:29.924675",
       "price_per_m2": 4111
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 45,
+      "volume": 184,
+      "rooms": 1,
+      "energy_label": "Niet beschikbaar",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1912,
+      "address": "2e Schansstraat 28-A",
+      "postal_city": "3025 XN Rotterdam",
+      "building_age": 113,
+      "PC4": "3025",
+      "PC6": "XN",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-23T06:48:43.473812",
+      "price_per_m2": 4111
+    }
   }
 ]
