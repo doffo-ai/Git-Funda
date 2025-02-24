@@ -4484,5 +4484,74 @@
       "extraction_timestamp": "2025-02-24T20:52:08.890696",
       "price_per_m2": 5000
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 210000,
+      "living_area": 50,
+      "volume": 167,
+      "rooms": 2,
+      "energy_label": "D",
+      "vve_contribution": 90.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1929,
+      "address": "Wolphaertsbocht 367-A01",
+      "postal_city": "3081 KH Rotterdam",
+      "building_age": 96,
+      "PC4": "3081",
+      "PC6": "KH",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-24T21:25:35.209131",
+      "price_per_m2": 4200
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 52,
+      "volume": 170,
+      "rooms": 3,
+      "energy_label": "E",
+      "vve_contribution": 45.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1939,
+      "address": "Goereesestraat 58-C",
+      "postal_city": "3083 DK Rotterdam",
+      "building_age": 86,
+      "PC4": "3083",
+      "PC6": "DK",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-24T21:25:36.146424",
+      "price_per_m2": 4327
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 200000,
+      "living_area": 40,
+      "volume": 128,
+      "rooms": 2,
+      "energy_label": "A",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 2016,
+      "address": "Stationsstraat 16",
+      "postal_city": "3201 AS Spijkenisse",
+      "building_age": 9,
+      "PC4": "3201",
+      "PC6": "AS",
+      "city": "Spijkenisse",
+      "extraction_timestamp": "2025-02-24T21:25:36.989100",
+      "price_per_m2": 5000
+    }
   }
 ]
