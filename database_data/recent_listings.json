@@ -8624,5 +8624,143 @@
       "extraction_timestamp": "2025-02-25T13:48:44.014521",
       "price_per_m2": 3689
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 54,
+      "volume": 179,
+      "rooms": 4,
+      "energy_label": "D",
+      "vve_contribution": 156.08,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1940,
+      "address": "Walchersestraat 106-C",
+      "postal_city": "3083 NT Rotterdam",
+      "building_age": 85,
+      "PC4": "3083",
+      "PC6": "NT",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-25T13:57:39.744278",
+      "price_per_m2": 3704
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 30,
+      "volume": 99,
+      "rooms": 1,
+      "energy_label": "C",
+      "vve_contribution": 104.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1984,
+      "address": "Charlotte Brontéstraat 305",
+      "postal_city": "1102 XD Amsterdam",
+      "building_age": 41,
+      "PC4": "1102",
+      "PC6": "XD",
+      "city": "Amsterdam",
+      "extraction_timestamp": "2025-02-25T13:57:40.618962",
+      "price_per_m2": 6667
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 79,
+      "volume": 283,
+      "rooms": 3,
+      "energy_label": "G",
+      "vve_contribution": 102.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement met open portiek)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1934,
+      "address": "Röntgenstraat 12-C",
+      "postal_city": "3131 RM Vlaardingen",
+      "building_age": 91,
+      "PC4": "3131",
+      "PC6": "RM",
+      "city": "Vlaardingen",
+      "extraction_timestamp": "2025-02-25T13:57:41.517753",
+      "price_per_m2": 2848
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 192500,
+      "living_area": 53,
+      "volume": 183,
+      "rooms": 4,
+      "energy_label": "G",
+      "vve_contribution": 95.0,
+      "heating_system": "Gashaard",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1940,
+      "address": "Wieringerstraat 10-C",
+      "postal_city": "3083 CL Rotterdam",
+      "building_age": 85,
+      "PC4": "3083",
+      "PC6": "CL",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-25T13:57:42.747722",
+      "price_per_m2": 3632
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 175000,
+      "living_area": 55,
+      "volume": 179,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 549.62,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Portiekflat (service flat)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1970,
+      "address": "Dr H. Colijnlaan 6-F113",
+      "postal_city": "2283 XM Rijswijk (ZH)",
+      "building_age": 55,
+      "PC4": "2283",
+      "PC6": "XM",
+      "city": "Rijswijk (ZH)",
+      "extraction_timestamp": "2025-02-25T13:57:43.666869",
+      "price_per_m2": 3182
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 61,
+      "volume": 180,
+      "rooms": 3,
+      "energy_label": "G",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1964,
+      "address": "Wijnruitstraat 43",
+      "postal_city": "3193 GJ Hoogvliet Rotterdam",
+      "building_age": 61,
+      "PC4": "3193",
+      "PC6": "GJ",
+      "city": "Hoogvliet Rotterdam",
+      "extraction_timestamp": "2025-02-25T13:57:44.539192",
+      "price_per_m2": 3689
+    }
   }
 ]
