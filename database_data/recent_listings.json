@@ -14604,5 +14604,51 @@
       "extraction_timestamp": "2025-02-26T07:00:41.608543",
       "price_per_m2": 7708
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 55,
+      "volume": 186,
+      "rooms": 2,
+      "energy_label": "D",
+      "vve_contribution": 123.87,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1998,
+      "address": "J.C. van der Lansstraat 6",
+      "postal_city": "2552 HN Den Haag",
+      "building_age": 27,
+      "PC4": "2552",
+      "PC6": "HN",
+      "city": "Den Haag",
+      "extraction_timestamp": "2025-02-26T07:27:49.628602",
+      "price_per_m2": 4091
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 24,
+      "volume": 100,
+      "rooms": 2,
+      "energy_label": "A",
+      "vve_contribution": 197.84,
+      "heating_system": "Warmtepomp",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1917,
+      "address": "Fultonstraat 239",
+      "postal_city": "2562 XG Den Haag",
+      "building_age": 108,
+      "PC4": "2562",
+      "PC6": "XG",
+      "city": "Den Haag",
+      "extraction_timestamp": "2025-02-26T07:27:50.523824",
+      "price_per_m2": 7708
+    }
   }
 ]
