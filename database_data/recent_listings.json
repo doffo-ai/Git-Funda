@@ -26794,5 +26794,166 @@
       "extraction_timestamp": "2025-02-27T14:46:47.001824",
       "price_per_m2": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 70,
+      "volume": 220,
+      "rooms": 3,
+      "energy_label": "D",
+      "vve_contribution": 87.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1963,
+      "address": "Aristotelesstraat 101",
+      "postal_city": "3076 BC Rotterdam",
+      "building_age": 62,
+      "PC4": "3076",
+      "PC6": "BC",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-27T14:55:37.412490",
+      "price_per_m2": 3214
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 59,
+      "volume": 227,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 119.12,
+      "heating_system": "Moederhaard",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1940,
+      "address": "Dorpsweg 14-A",
+      "postal_city": "3083 LA Rotterdam",
+      "building_age": 85,
+      "PC4": "3083",
+      "PC6": "LA",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-27T14:55:38.469849",
+      "price_per_m2": 3814
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 65,
+      "volume": 213,
+      "rooms": 3,
+      "energy_label": "F",
+      "vve_contribution": 255.13,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1959,
+      "address": "Oldegaarde 726",
+      "postal_city": "3086 AN Rotterdam",
+      "building_age": 66,
+      "PC4": "3086",
+      "PC6": "AN",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-27T14:55:38.870990",
+      "price_per_m2": 3077
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 200000,
+      "living_area": 90,
+      "volume": 313,
+      "rooms": 4,
+      "energy_label": "F",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": null,
+      "construction_type": "Bestaande bouw",
+      "build_year": 1897,
+      "address": "Nieuwstraat 33",
+      "postal_city": "2771 XH Boskoop",
+      "building_age": 128,
+      "PC4": "2771",
+      "PC6": "XH",
+      "city": "Boskoop",
+      "extraction_timestamp": "2025-02-27T14:55:39.776661",
+      "price_per_m2": 2222
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 39,
+      "volume": 132,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 194.24,
+      "heating_system": "Elektrische verwarming",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1957,
+      "address": "Elisabeth Brugsmaweg 1-211",
+      "postal_city": "2555 SC Den Haag",
+      "building_age": 68,
+      "PC4": "2555",
+      "PC6": "SC",
+      "city": "Den Haag",
+      "extraction_timestamp": "2025-02-27T14:55:41.619215",
+      "price_per_m2": 5769
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 220000,
+      "living_area": null,
+      "volume": null,
+      "rooms": null,
+      "energy_label": null,
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": null,
+      "construction_type": null,
+      "build_year": null,
+      "address": "Johannes de Breukstraat 2",
+      "postal_city": "2021 HB Haarlem",
+      "building_age": null,
+      "PC4": "2021",
+      "PC6": "HB",
+      "city": "Haarlem",
+      "extraction_timestamp": "2025-02-27T14:55:42.926624",
+      "price_per_m2": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 190000,
+      "living_area": null,
+      "volume": null,
+      "rooms": null,
+      "energy_label": null,
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": null,
+      "construction_type": null,
+      "build_year": null,
+      "address": "Johannes de Breukstraat 2-A",
+      "postal_city": "2021 HB Haarlem",
+      "building_age": null,
+      "PC4": "2021",
+      "PC6": "HB",
+      "city": "Haarlem",
+      "extraction_timestamp": "2025-02-27T14:55:43.848766",
+      "price_per_m2": null
+    }
   }
 ]
