@@ -24793,5 +24793,74 @@
       "extraction_timestamp": "2025-02-27T06:52:46.458847",
       "price_per_m2": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 59,
+      "volume": 227,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 119.12,
+      "heating_system": "Moederhaard",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1940,
+      "address": "Dorpsweg 14-A",
+      "postal_city": "3083 LA Rotterdam",
+      "building_age": 85,
+      "PC4": "3083",
+      "PC6": "LA",
+      "city": "Rotterdam",
+      "extraction_timestamp": "2025-02-27T07:26:27.806688",
+      "price_per_m2": 3814
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 220000,
+      "living_area": null,
+      "volume": null,
+      "rooms": null,
+      "energy_label": null,
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": null,
+      "construction_type": null,
+      "build_year": null,
+      "address": "Johannes de Breukstraat 2",
+      "postal_city": "2021 HB Haarlem",
+      "building_age": null,
+      "PC4": "2021",
+      "PC6": "HB",
+      "city": "Haarlem",
+      "extraction_timestamp": "2025-02-27T07:26:29.035568",
+      "price_per_m2": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 190000,
+      "living_area": null,
+      "volume": null,
+      "rooms": null,
+      "energy_label": null,
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": null,
+      "construction_type": null,
+      "build_year": null,
+      "address": "Johannes de Breukstraat 2-A",
+      "postal_city": "2021 HB Haarlem",
+      "building_age": null,
+      "PC4": "2021",
+      "PC6": "HB",
+      "city": "Haarlem",
+      "extraction_timestamp": "2025-02-27T07:26:30.282164",
+      "price_per_m2": null
+    }
   }
 ]
