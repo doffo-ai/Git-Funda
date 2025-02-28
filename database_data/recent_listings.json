@@ -32084,5 +32084,28 @@
       "extraction_timestamp": "2025-02-27T23:57:25.651418",
       "price_per_m2": 2744
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 225000,
+      "living_area": 82,
+      "volume": 259,
+      "rooms": 3,
+      "energy_label": "Niet beschikbaar",
+      "vve_contribution": 280.52,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1974,
+      "address": "Pisuissestraat 413",
+      "postal_city": null,
+      "building_age": 51,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-02-28T02:58:52.611215",
+      "price_per_m2": 2744
+    }
   }
 ]
