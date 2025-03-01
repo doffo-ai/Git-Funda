@@ -40042,5 +40042,97 @@
       "extraction_timestamp": "2025-03-01T03:57:00.150534",
       "price_per_m2": 5375
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 210000,
+      "living_area": 53,
+      "volume": 319,
+      "rooms": 3,
+      "energy_label": "C",
+      "vve_contribution": 80.0,
+      "heating_system": "Gaskachels",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1957,
+      "address": "West-Sidelinge 42-A",
+      "postal_city": null,
+      "building_age": 68,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-01T04:36:11.709095",
+      "price_per_m2": 3962
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 56,
+      "volume": 186,
+      "rooms": 3,
+      "energy_label": "E",
+      "vve_contribution": 127.21,
+      "heating_system": "Gaskachels",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1955,
+      "address": "van der Duyn van Maasdamlaan 122-C",
+      "postal_city": null,
+      "building_age": 70,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-01T04:36:12.661374",
+      "price_per_m2": 4018
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 33,
+      "volume": 130,
+      "rooms": 2,
+      "energy_label": "D",
+      "vve_contribution": 91.64,
+      "heating_system": "Blokverwarming en Cv-ketel",
+      "apartment_type": "Tussenverdieping (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1912,
+      "address": "Bosschestraat 6-D",
+      "postal_city": null,
+      "building_age": 113,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-01T04:36:13.562577",
+      "price_per_m2": 6061
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 215000,
+      "living_area": 40,
+      "volume": 130,
+      "rooms": 1,
+      "energy_label": "D",
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": "Tussenverdieping (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1926,
+      "address": "Korte Houtstraat 11-G",
+      "postal_city": null,
+      "building_age": 99,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-01T04:36:14.467823",
+      "price_per_m2": 5375
+    }
   }
 ]
