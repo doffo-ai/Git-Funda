@@ -47448,5 +47448,28 @@
       "extraction_timestamp": "2025-03-02T13:47:41.292037",
       "price_per_m2": 4064
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 191000,
+      "living_area": 47,
+      "volume": 149,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 196.5,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1950,
+      "address": "Burgemeester Gijsenlaan 5",
+      "postal_city": null,
+      "building_age": 75,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-02T13:56:19.305219",
+      "price_per_m2": 4064
+    }
   }
 ]
