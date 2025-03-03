@@ -48736,5 +48736,28 @@
       "extraction_timestamp": "2025-03-03T08:40:11.610413",
       "price_per_m2": 4082
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 200000,
+      "living_area": 49,
+      "volume": 162,
+      "rooms": 3,
+      "energy_label": "B",
+      "vve_contribution": 144.37,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": null,
+      "address": "Klaverstraat 80-B",
+      "postal_city": null,
+      "building_age": null,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-03T08:51:27.216780",
+      "price_per_m2": 4082
+    }
   }
 ]
