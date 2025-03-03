@@ -49610,5 +49610,120 @@
       "extraction_timestamp": "2025-03-03T13:42:07.137811",
       "price_per_m2": 4082
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 37,
+      "volume": 122,
+      "rooms": 2,
+      "energy_label": "F",
+      "vve_contribution": 255.0,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1967,
+      "address": "Van Ostadelaan 406",
+      "postal_city": null,
+      "building_age": 58,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-03T13:51:09.859413",
+      "price_per_m2": 5405
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 78,
+      "volume": 274,
+      "rooms": 4,
+      "energy_label": "E",
+      "vve_contribution": 68.75,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1935,
+      "address": "Voetjesstraat 48-A",
+      "postal_city": null,
+      "building_age": 90,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-03T13:51:10.780030",
+      "price_per_m2": 2885
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 44,
+      "volume": 139,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 150.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Galerijflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1978,
+      "address": "Slochterwaard 106",
+      "postal_city": null,
+      "building_age": 47,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-03T13:51:11.892199",
+      "price_per_m2": 5114
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 217000,
+      "living_area": 47,
+      "volume": 164,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 60.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1960,
+      "address": "Wantsnijdersgaarde 519",
+      "postal_city": null,
+      "building_age": 65,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-03T13:51:12.757863",
+      "price_per_m2": 4617
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 200000,
+      "living_area": 49,
+      "volume": 162,
+      "rooms": 3,
+      "energy_label": "B",
+      "vve_contribution": 144.37,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": null,
+      "address": "Klaverstraat 80-B",
+      "postal_city": null,
+      "building_age": null,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-03T13:51:13.562727",
+      "price_per_m2": 4082
+    }
   }
 ]
