@@ -54946,5 +54946,51 @@
       "extraction_timestamp": "2025-03-04T07:41:15.726499",
       "price_per_m2": 5625
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 19,
+      "volume": 50,
+      "rooms": 1,
+      "energy_label": "G",
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1963,
+      "address": "Schierstins 95",
+      "postal_city": null,
+      "building_age": 62,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-04T07:50:00.364540",
+      "price_per_m2": 9737
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 40,
+      "volume": 131,
+      "rooms": 1,
+      "energy_label": "B",
+      "vve_contribution": 213.14,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1975,
+      "address": "Burgemeester Patijnlaan 228",
+      "postal_city": null,
+      "building_age": 50,
+      "PC4": null,
+      "PC6": null,
+      "city": null,
+      "extraction_timestamp": "2025-03-04T07:50:01.769570",
+      "price_per_m2": 5625
+    }
   }
 ]
